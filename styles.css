@@ -1,0 +1,57 @@
+#title {
+  font-size: 30px;
+  text-align: center;
+}
+
+.nav {
+  z-index: 1;
+  position: fixed;
+  top: 0;
+  text-align: center;
+  width: 100%;
+  background: #dbdad9;
+}
+
+.nav-right {
+  float: right;
+}
+
+.nav-left {
+  float: left;
+}
+
+.separation-line {
+  border-bottom: 1px solid black;
+  width: 100%;
+}
+
+.inline-list li {
+  display: inline-block;
+  border-bottom: 1px solid black;
+}
+
+.article {
+  margin-top: 100px;
+}
+
+.footer-links {
+  float: left;
+}
+
+.footer {
+  position: absolute;
+}
+
+.page-size {
+  width: 900px;
+  position: relative;
+  margin: 0 auto;
+}
+
+.side-text {
+  font-size: 0.875rem;
+}
+
+.clear-text{
+  clear: left;
+}
